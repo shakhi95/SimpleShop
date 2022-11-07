@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/SimpleShop/static/js/main.c696290b.js",
+    "index.html": "/SimpleShop/index.html",
+    "main.c696290b.js.map": "/SimpleShop/static/js/main.c696290b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c696290b.js"
+  ]
+}
